@@ -3,4 +3,4 @@ flask-cors==4.0.1
 gunicorn==22.0.0
 phonenumbers==8.13.42
 holehe
-maigret
+git+https://github.com/soxoj/maigret.git
